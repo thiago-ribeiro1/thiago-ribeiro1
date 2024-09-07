@@ -4,6 +4,8 @@
   </a>
 </div></br>
 
+<img align="right" alt="coding-gif" height="190px" src="./src/coding.gif">
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-ribeiro1&show_icons=true&theme=highcontrast)
 
