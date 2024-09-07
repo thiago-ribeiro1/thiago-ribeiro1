@@ -1,3 +1,10 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A1E5E&center=true&vCenter=true&random=false&width=524&lines=Thiago+Ribeiro" alt="Typing SVG">
+  </a>
+</div>
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-ribeiro1&show_icons=true&theme=highcontrast)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-ribeiro-ramos)
