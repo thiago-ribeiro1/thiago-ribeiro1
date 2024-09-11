@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td align="center" valign="middle"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html" /></td>
-    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="springboot" /></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></td>
   </tr>
   <tr>
     <td align="center" valign="middle"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css" /></td>
@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td align="center" valign="middle"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" /></td>
-    <td align="center" valign="middle"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="springboot"  /></td>
   </tr>
 </table>
 
