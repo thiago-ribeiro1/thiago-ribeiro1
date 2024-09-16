@@ -34,7 +34,7 @@
   </tr>
 </table>
 
-[![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-ribeiro1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-ribeiro1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <picture align="center">
