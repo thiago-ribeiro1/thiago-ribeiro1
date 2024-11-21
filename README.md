@@ -34,6 +34,11 @@
   </tr>
 </table>
 
+## 📌 Projeto em Destaque
+
+- [**PrimeGaming**](https://github.com/thiago-ribeiro1/PrimeGaming) - Plataforma de administração para uma loja digital (Node JS)
+<br>
+
 [![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-ribeiro1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
