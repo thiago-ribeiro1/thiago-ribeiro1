@@ -36,6 +36,9 @@
 
 ## 📌 Projetos em Destaque
 
+- [**Click&Buy**](https://github.com/thiago-ribeiro1/click-and-buy-app) - Aplicação mobile de uma loja online desenvolvida em React Native e backend em Node.js (Projeto acadêmico)
+<br>
+
 - [**PrimeGaming**](https://github.com/thiago-ribeiro1/PrimeGaming) - Plataforma de administração para uma loja digital (Node JS)
 <br>
 
