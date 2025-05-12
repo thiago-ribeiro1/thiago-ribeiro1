@@ -31,8 +31,6 @@
   <img alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
-<br/><br/>
-
 ## 📌 Projetos em Destaque
 
 - [**Click&Buy**](https://github.com/thiago-ribeiro1/click-and-buy-app) - Aplicação mobile de uma loja online desenvolvida em React Native e backend em Node.js (Projeto acadêmico)
