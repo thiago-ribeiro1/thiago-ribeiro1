@@ -33,7 +33,6 @@
 
 ## 📌 Projetos em Destaque
 
----
 - [**Music Player**](https://github.com/thiago-ribeiro1/MusicPlayerApp) - Aplicativo de música para Android desenvolvido com React Native CLI e backend nativo em Kotlin
 
 ---
