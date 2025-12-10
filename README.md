@@ -43,8 +43,6 @@
 - [**PrimeGaming**](https://github.com/thiago-ribeiro1/PrimeGaming) - Plataforma de administração para uma loja digital (Node JS)
   
 ---
-[![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-ribeiro1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiago-ribeiro1/thiago-ribeiro1/output/github-contribution-grid-snake-dark.svg">
