@@ -29,6 +29,9 @@
   <img alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiago-ribeiro1&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiago-ribeiro1&theme=algolia)
+
 ## 📌 Projetos em Destaque
 
 - [**Music Player**](https://github.com/thiago-ribeiro1/MusicPlayerApp) - Aplicativo de música para Android desenvolvido com React Native CLI e backend nativo em Kotlin
