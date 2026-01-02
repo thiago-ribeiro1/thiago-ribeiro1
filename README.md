@@ -28,10 +28,28 @@
   <img alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
+<br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiago-ribeiro1&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiago-ribeiro1&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiago-ribeiro1&theme=algolia)
+<div align="center">
+
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiago-ribeiro1&theme=algolia"
+    width="45%"
+  />
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiago-ribeiro1&theme=algolia"
+    width="45%"
+  />
+
+  <br /><br />
+
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiago-ribeiro1&theme=algolia"
+    width="60%"
+  />
+
+</div>
+<br>
 
 ## 📌 Projetos em Destaque
 
