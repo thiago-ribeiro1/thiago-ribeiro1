@@ -31,6 +31,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiago-ribeiro1&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiago-ribeiro1&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiago-ribeiro1&theme=algolia)
 
 ## 📌 Projetos em Destaque
 
