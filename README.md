@@ -50,7 +50,7 @@
   <!-- Estatísticas -->
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiago-ribeiro1&theme=algolia"
-    width="40%"
+    width="45%"
   />
 
   <br /><br />
