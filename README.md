@@ -45,15 +45,11 @@
     width="45%"
   />
 
-  <br /><br />
-
   <!-- Estatísticas -->
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiago-ribeiro1&theme=algolia"
     width="45%"
   />
-
-  <br /><br />
 
   <!-- Detalhes do perfil (full width) -->
   <img
