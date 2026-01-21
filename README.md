@@ -1,3 +1,6 @@
+<!-- Topo -->
+<img width="100%" src="https://camo.githubusercontent.com/ad03f6e7e6fb1b9cf9e82dd9bddd6256d2d8348cd751c3449c76788ce62ab9d8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303034464646266865696768743d3132302673656374696f6e3d686561646572" />
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=524&lines=Thiago+Ribeiro" alt="Typing SVG">
@@ -56,3 +59,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiago-ribeiro1/thiago-ribeiro1/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thiago-ribeiro1/thiago-ribeiro1/output/github-contribution-grid-snake.svg">
 </picture>
+
+<!-- Rodapé -->
+<img width="100%" src="https://camo.githubusercontent.com/92183ada3d39e8d657898886501077ead3e4681eb23f55ade1a6818380631545/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303034464646266865696768743d3132302673656374696f6e3d666f6f746572" />
