@@ -36,32 +36,6 @@
 
 ![thiago-ribeiro1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-ribeiro1&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact)
 
-<div align="center">
-
-  <!-- Linguagens -->
-  <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiago-ribeiro1&theme=algolia"
-    width="45%"
-  />
-  <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiago-ribeiro1&theme=algolia"
-    width="45%"
-  />
-
-  <!-- Estatísticas -->
-  <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiago-ribeiro1&theme=algolia"
-    width="45%"
-  />
-
-  <!-- Detalhes do perfil (full width) -->
-  <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiago-ribeiro1&theme=algolia"
-    width="90%"
-  />
-
-</div>
-
 ## 📌 Projetos em Destaque
 
 - [**Music Player**](https://github.com/thiago-ribeiro1/MusicPlayerApp) - Aplicativo de música para Android desenvolvido com React Native CLI e backend nativo em Kotlin
