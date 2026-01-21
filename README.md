@@ -11,7 +11,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiago_ribeiro__)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:thiagoribeiroramos_@outlook.com)
 
-## My Skills
+## Skills
 
 <div align="center">
   <img alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -31,6 +31,10 @@
 
 ---
 ## Estatísticas
+
+![thiago-ribeiro1's Stats](https://github-readme-stats.vercel.app/api?username=thiago-ribeiro1&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true)
+
+![thiago-ribeiro1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-ribeiro1&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact)
 
 <div align="center">
 
