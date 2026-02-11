@@ -61,9 +61,16 @@
 ---
 ## Estatísticas
 
-![thiago-ribeiro1's Stats](https://github-readme-stats.vercel.app/api?username=thiago-ribeiro1&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true)
-
-![thiago-ribeiro1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-ribeiro1&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact)
+<div align="center">
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiago-ribeiro1&theme=transparent"
+    height="165"
+  />
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiago-ribeiro1&theme=transparent"
+    height="165"
+  />
+</div>
 
 ## 📌 Projetos em Destaque
 
