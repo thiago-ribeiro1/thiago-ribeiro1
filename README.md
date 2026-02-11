@@ -64,11 +64,11 @@
 <div align="center">
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiago-ribeiro1&theme=transparent"
-    height="165"
+    height="195"
   />
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiago-ribeiro1&theme=transparent"
-    height="165"
+    height="195"
   />
 </div>
 
