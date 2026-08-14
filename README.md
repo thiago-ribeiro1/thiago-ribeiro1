@@ -77,13 +77,10 @@
 - [**Music Player**](https://github.com/thiago-ribeiro1/MusicPlayerApp) - Aplicativo de música para Android desenvolvido com React Native CLI e backend nativo em Kotlin
 
 ---
-- [**Click&Buy**](https://github.com/thiago-ribeiro1/click-and-buy-app) - Aplicação mobile de uma loja online desenvolvida em React Native e backend em Node.js (Projeto acadêmico)
-
----
 - [**TechFlow**](https://github.com/thiago-ribeiro1/TechFlow) - Aplicação baseada em microsserviços e mensageria assíncrona (Java)
 
 ---
-- [**PrimeGaming**](https://github.com/thiago-ribeiro1/PrimeGaming) - Plataforma de administração para uma loja digital (Node JS)
+- [**Click&Buy**](https://github.com/thiago-ribeiro1/click-and-buy-app) - Aplicação mobile de uma loja online desenvolvida em React Native e backend em Node.js (Projeto acadêmico)
   
 ---
 
