@@ -10,7 +10,7 @@
 <div align="center">
   <img alt="Thiago Ribeiro" src="./src/dark_mode.svg" width="100%">
 </div>
-
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-ribeiro-ramos)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiago_ribeiro__)
