@@ -7,7 +7,9 @@
   </a>
 </div>
 
-<img align="center" alt="code-gif" height="190px" src="./src/Code.gif">
+<div align="center">
+  <img alt="Thiago Ribeiro" src="./src/dark_mode.svg" width="100%">
+</div>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-ribeiro-ramos)
