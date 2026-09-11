@@ -78,7 +78,7 @@
 <text x="468" y="157.2" class="i">. <tspan class="k">Languages.Code</tspan>:<tspan class="d"> ...... </tspan><tspan class="v">Java, JavaScript, TypeScript, Python</tspan></text>
 <text x="468" y="181.5" class="i">. <tspan class="k">Languages.Frontend</tspan>:<tspan class="d"> ........................ </tspan><tspan class="v">React, Next.js</tspan></text>
 <text x="468" y="205.8" class="i">. <tspan class="k">Languages.Mobile</tspan>:<tspan class="d"> ... </tspan><tspan class="v">Kotlin, Jetpack Compose, React Native</tspan></text>
-<text x="468" y="230.0" class="i">. <tspan class="k">Languages.Backend</tspan>:<tspan class="d"> .......... </tspan><tspan class="v">Node.js, Java, Spring Boot</tspan></text>
+<text x="468" y="230.0" class="i">. <tspan class="k">Languages.Backend</tspan>:<tspan class="d"> .......... </tspan><tspan class="v">Node.js, Spring Boot, Quarkus</tspan></text>
 <text x="468" y="254.2" class="i">. <tspan class="k">Languages.Real</tspan>:<tspan class="d"> ......................... </tspan><tspan class="v">Português, Inglês</tspan></text>
 <text x="468" y="278.5" class="i">.</text>
 <text x="468" y="302.8" class="i">. <tspan class="k">Databases</tspan>:<tspan class="d"> .............. </tspan><tspan class="v">MySQL, PostgreSQL, MongoDB, Redis</tspan></text>
