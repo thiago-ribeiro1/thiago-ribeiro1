@@ -74,16 +74,6 @@
     height="195"
   />
 </div>
-
-## 📌 Projetos em Destaque
-
-- [**Music Player**](https://github.com/thiago-ribeiro1/MusicPlayerApp) - Aplicativo de música para Android desenvolvido com React Native CLI e backend nativo em Kotlin
-
----
-- [**TechFlow**](https://github.com/thiago-ribeiro1/TechFlow) - Aplicação baseada em microsserviços e mensageria assíncrona (Java)
-
----
-- [**Click&Buy**](https://github.com/thiago-ribeiro1/click-and-buy-app) - Aplicação mobile de uma loja online desenvolvida em React Native e backend em Node.js (Projeto acadêmico)
   
 ---
 
